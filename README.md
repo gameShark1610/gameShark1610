@@ -4,13 +4,14 @@
 </p>
 
 ## 🎯 About Me
-I’m **Yair**, an aspiring **Backend Software Engineer** passionate about:
-- **Competitive programing**
+I’m **Yair**, an aspiring **Backend Software Engineer** with a strong interest in **applied AI**
+I’m passionate about:
+- **Backend Development and scalable architectures**
+- **Competitive Programming & problem-solving**
 - **Algorithms and Data Structures**
-- **APIs & Backend Development**
-- **Applied AI with Python**
+- **AI/NLP integration in real-world systems**
 
-Currently, I’m preparing for internships in tech companies while building strong expertise in backend architecture, performance optimization, and scalable systems.
+I’m currently preparing for internships in tech companies, focusing on building projects that combine solid backend engineering with innovative AI applications.
 
 ---
 
@@ -37,10 +38,10 @@ Currently, I’m preparing for internships in tech companies while building stro
 ---
 
 ## 📚 Currently Improving
-- **Backend Development with Java (Spring Boot) and Python (FastAPI)**
-- **Data Structures & Algorithms for technical interviews (LeetCode / HackerRank)**
-- **Database Design (PostgreSQL, MySQL)**
-- **System Design Fundamentals**
+- **Backend Architecture with Java (Spring Boot) and Python**
+- **AI/NLP Development using Hugging Face, spaCy, and sentence-transformers**
+- **Data Structures & Algorithms for technical interviews (LeetCode, HackerRank)**
+- **Database Design & Optimization (PostgreSQL, MySQL)**
 - **English for Technical Communication**
 
 ---
@@ -52,7 +53,14 @@ Currently, I’m preparing for internships in tech companies while building stro
 - **Implemented request/response validation with annotations and mapping logic for clean separation.**
 - **Integrated Docker for deployment and environment consistency.**
 - **Planned: Add Swagger/OpenAPI documentation and connect to a PostgreSQL database.**
+  
+### 🤖 AI-Powered Resume & Job Match API *(In Progress)*
 
+- **Developed a FastAPI backend to process resumes (PDF/DOCX) and job descriptions.**
+- **Uses NLP and embeddings (sentence-transformers) to calculate a semantic match score between resumes and job postings.**
+- **Provides improvement suggestions based on missing skills and keywords.**
+- **Designed for scalability with clear separation between parsing, processing, and AI modules.**
+- **Planned: Deploy with Docker on Render/Fly.io and integrate with a PostgreSQL database for result storage.**
 
 
 ## 🌐 Connect with Me
