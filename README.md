@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I'm%20Yair%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img width="1584" height="396" alt="Black and Yellow Web Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/4cd1a8a7-9cef-4b0e-b276-7bfed3daad7f" />
 </p>
 
 ## 🎯 About Me
