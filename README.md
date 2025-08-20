@@ -4,7 +4,7 @@
 </p>
 
 ## 🎯 About Me
-I’m **Yair**, an aspiring **Backend Software Engineer** with a strong interest in **applied AI**
+I’m Yair, an aspiring Software Engineer focused on Backend Development, with a strong interest in applied AI
 I’m passionate about:
 - **Backend Development and scalable architectures**
 - **Competitive Programming & problem-solving**
@@ -12,7 +12,7 @@ I’m passionate about:
 - **AI/NLP integration in real-world systems**
 - **Operating System fundamentals (processes & scheduling)**
 
-I’m currently preparing for internships in tech companies, focusing on building projects that combine solid backend engineering with innovative AI applications.
+I’m focusing on building projects with solid backend engineering to understand how things work, and I plan to combine them with AI in the future.
 
 ---
 
@@ -48,7 +48,7 @@ I’m currently preparing for internships in tech companies, focusing on buildin
 
 ## 📌 Featured Projects
 
-### 🚀 Task Management REST API *(Java)*
+### 🚀 Task Management RESTful API *(Java)*
 - **Developed CRUD operations with a layered architecture using DTOs, Services, and Repositories.**
 - **Implemented request/response validation and error handling with Spring Boot best practices.**
 - **Integrated authentication and authorization with Spring Security and JWT.**
