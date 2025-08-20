@@ -10,6 +10,7 @@ I’m passionate about:
 - **Competitive Programming & problem-solving**
 - **Algorithms and Data Structures**
 - **AI/NLP integration in real-world systems**
+- **Operating System fundamentals (processes & scheduling)**
 
 I’m currently preparing for internships in tech companies, focusing on building projects that combine solid backend engineering with innovative AI applications.
 
@@ -42,26 +43,25 @@ I’m currently preparing for internships in tech companies, focusing on buildin
 - **AI/NLP Development using Hugging Face, spaCy, and sentence-transformers**
 - **Data Structures & Algorithms for technical interviews (LeetCode, HackerRank)**
 - **Database Design & Optimization (PostgreSQL, MySQL)**
-- **English for Technical Communication**
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 RESTful Api using Java and Spring *(In Progress)*
-- **Developed CRUD operations with a clean architecture using DTOs, Services, and Repositories.**
-- **Implemented request/response validation with annotations and mapping logic for clean separation.**
-- **Integrated Docker for deployment and environment consistency.**
-- **Planned: Add Swagger/OpenAPI documentation and connect to a PostgreSQL database.**
-  
-### 🤖 AI-Powered Resume & Job Match API *(In Progress)*
+### 🚀 Task Management REST API *(Java)*
+- **Developed CRUD operations with a layered architecture using DTOs, Services, and Repositories.**
+- **Implemented request/response validation and error handling with Spring Boot best practices.**
+- **Integrated authentication and authorization with Spring Security and JWT.**
+- **Connected to MySQL using Docker for consistent environments.**
+- **Planned Next Steps (Phase 3):** Add Swagger/OpenAPI documentation and deployment configuration.
 
-- **Developed a FastAPI backend to process resumes (PDF/DOCX) and job descriptions.**
-- **Uses NLP and embeddings (sentence-transformers) to calculate a semantic match score between resumes and job postings.**
-- **Provides improvement suggestions based on missing skills and keywords.**
-- **Designed for scalability with clear separation between parsing, processing, and AI modules.**
-- **Planned: Deploy with Docker on Render/Fly.io and integrate with a PostgreSQL database for result storage.**
+### 🖥️ Animated OS Process Scheduler *(C)*
+- **Simulated a Round Robin scheduling algorithm using a dynamic queue (TAD Cola).**
+- **Implemented process arrival, execution, and completion with a 1-second quantum.**
+- **Created an animated visualization in Windows CMD to demonstrate scheduling in real-time.**
+- **Designed as an educational tool for understanding operating system fundamentals.**
 
+---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yair-arciniega-58b909257) 
