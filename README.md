@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="1584" height="396" alt="Black and Yellow Web Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/4cd1a8a7-9cef-4b0e-b276-7bfed3daad7f" />
+  <img width="1584" height="396" alt="Black and Yellow Web Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/efc99114-795a-4fc0-853f-0b247ff9b25e" />
 </p>
 
 ## 🎯 About Me
